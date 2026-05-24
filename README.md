@@ -2,12 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Ter&fontAlign=50&fontAlignY=40&color=0:0f172a,100:2563eb&fontColor=ffffff&animation=fadeIn&desc=IT%20Student%20%7C%20UI%2FUX%20Designer%20%7C%20Web%20Developer&descAlignY=60"/>
 
-<br>
-
 
 </div>
 
----
+
 
 # About Me
 
