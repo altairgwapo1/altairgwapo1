@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm Ter
+# Hello, I'm Altair
 
 ### 🎓 IT Student • 🎨 UI/UX Designer • 💻 Web Developer
 
@@ -67,23 +67,12 @@ I enjoy combining creativity and technology to design interfaces that improve us
 ✨ Database Management  
 ✨ Wireframing & Prototyping  
 
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
 # 🎯 Goals
 
-- Become a professional Full-Stack Developer
+- Become a professional Full-Stack Web Developer
 - Create impactful and user-centered applications
 - Improve UI/UX design skills
 - Gain real-world development experience
@@ -103,7 +92,7 @@ I enjoy combining creativity and technology to design interfaces that improve us
 
 # 📫 Connect With Me
 
-📧 your@email.com  
+📧 altair.tamano.08@gmail.com  
 🌐 Portfolio Website: yourwebsite.com  
 💼 LinkedIn: YOUR_LINKEDIN_LINK  
 
