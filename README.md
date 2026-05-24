@@ -1,86 +1,118 @@
-# 👋 Hey there, I'm Ter!
+<div align="center">
 
-🎓 IT Student  
-💻 Aspiring Full-Stack Developer  
-🏋️ Gym rat trying to bulk up  
-🏃 Loves jogging and running  
-🎮 Gamer + Tech Enthusiast  
+# 👋 Hello, I'm Ter
 
----
+### 🎓 IT Student • 🎨 UI/UX Designer • 💻 Web Developer
 
-## 🚀 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Aspiring+Full-Stack+Developer;UI%2FUX+Design+Enthusiast;Building+Modern+Web+Experiences;Always+Learning+New+Technologies" />
 
-- 🌱 Currently learning:
-  - Web Development
-  - Networking
-  - Database Management
-  - UI/UX Design
-  - AR / WebAR Technologies
+<br>
 
-- 🔭 Working on:
-  - Locker Management System
-  - Internship / OSA Web System
-  - AR Tool Usage Guide
-  - Smart Tech & IoT Projects
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-- 🎯 Goals:
-  - Build real-world systems
-  - Improve coding skills daily
-  - Gain more muscle & strength 💪
-  - Become a successful software engineer
+<a href="YOUR_LINKEDIN_LINK">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_INSTAGRAM_LINK">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 💫 About Me
 
-### 💻 Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+I’m an **Information Technology student** passionate about creating visually appealing and user-friendly digital experiences. I focus on **UI/UX Design** and **Web Development**, aiming to build modern websites and systems that are both functional and engaging.
 
-### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+I enjoy combining creativity and technology to design interfaces that improve user experience while continuously learning new tools and technologies.
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 What I'm Currently Doing
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+- 🎨 Designing clean and responsive UI/UX interfaces
+- 💻 Developing modern web applications
+- 🌱 Learning advanced frontend and backend technologies
+- 🛠️ Building academic and personal projects
+- 📚 Improving problem-solving and coding skills
+
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Languages & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,mysql" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
+## 🎨 Design & Development Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,vscode,git,github" />
 </p>
 
 ---
 
-## 🔥 Fun Facts
+# 📌 Featured Skills
 
-- 🧠 I enjoy building systems that solve real problems
-- ☕ Can code for hours with good music
-- 🎮 Loves story-rich and competitive games
-- 💪 Trying to balance coding and fitness
-- 🚀 Always exploring new tech ideas
-
----
-
-## 📫 Connect With Me
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](YOUR_LINK)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_LINK)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+✨ UI/UX Design  
+✨ Responsive Web Design  
+✨ Frontend Development  
+✨ Basic Backend Development  
+✨ Database Management  
+✨ Wireframing & Prototyping  
 
 ---
 
-⭐ *"Code. Lift. Repeat."*
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 Goals
+
+- Become a professional Full-Stack Developer
+- Create impactful and user-centered applications
+- Improve UI/UX design skills
+- Gain real-world development experience
+- Continue learning modern technologies
+
+---
+
+# 🌟 Interests
+
+- 🎨 UI/UX Design
+- 🌐 Web Development
+- 🎮 Gaming
+- 🎵 Music While Coding
+- ☕ Tech & Creativity
+
+---
+
+# 📫 Connect With Me
+
+📧 your@email.com  
+🌐 Portfolio Website: yourwebsite.com  
+💼 LinkedIn: YOUR_LINKEDIN_LINK  
+
+---
+
+<div align="center">
+
+### ⭐ "Design. Develop. Improve. Repeat." ⭐
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</div>
