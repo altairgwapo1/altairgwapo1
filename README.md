@@ -34,18 +34,6 @@ Learning:
 🎨 Focused on creating modern UI/UX experiences with functionality and aesthetics combined.  
 🚀 Currently improving my frontend, backend, and design skills through personal and academic projects.  
 
----
-
-# 🚀 Current Projects
-
-| Project | Description |
-|----------|-------------|
-| 🔐 Locker Management System | Smart locker monitoring and management platform |
-| 🏫 OSA / Internship System | Student internship and office management web system |
-| 🥽 AR Tool Guide | Interactive AR-based learning experience |
-| 🌐 Personal Portfolio | Responsive portfolio website for showcasing projects |
-
----
 
 # 🛠️ Tech Stack
 
